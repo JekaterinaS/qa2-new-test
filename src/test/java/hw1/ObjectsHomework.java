@@ -99,5 +99,6 @@ public class ObjectsHomework {
         System.out.println(firstTableLamp.getColour());
         System.out.println(firstTableLamp.getWireLength());
 
+
     }
 }
